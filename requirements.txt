@@ -1,8 +1,6 @@
-crewai      # or your crewai package name
+crewai     
 fastapi
 uvicorn
 python-dotenv
 redis
-openai      # or your LLM SDK
-langchain   # optional (for more complex LLM chains)
 pydantic
