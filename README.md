@@ -12,8 +12,8 @@ AI agent as a coach to evalaute the perforamce of the other AI agents, We are tr
 6) add your api key in .env file: GROQ_API_KEY=your_api_key_here
 7) add your redis URL in .env file: REDIS_URL= your redis url
 8) Run the main.py file: python main.py
-9) Which provides the URL in the terminal and when click on it, it redirects to the borwser and when you type /doc in the search bar at the end of the URL it navigate to the fastapi service
-10) you can provide the input in the json formate at the fastapi service interface and get the answer along with the confidence score and intermediate reasoning
+9) Which provides the URL in the terminal and when click on it, it redirects to the borwser and when you type /doc in the search bar at the end of the URL it navigate to the fastapi service.
+10) you can provide the input in the json formate at the fastapi service interface and get the answer along with the confidence score and intermediate reasoning.
 
 
 ## 3 . Examples of the output when input is provided through the fastapi service:
@@ -30,8 +30,9 @@ Response:
 }
 
 ## Instrcutions:
-1) Run the local_run.py file to check the performance on the hardcoded inputs
+1) Run the local_run.py file to check the performance on the hardcoded inputs.
 2) you can find a architecture.pdf file in the repo.
+
 
 
 
